@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\bin\Debug\net8.0\FreezingTime.exe
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\bin\Debug\net8.0\FreezingTime.deps.json
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\bin\Debug\net8.0\FreezingTime.runtimeconfig.json
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\bin\Debug\net8.0\FreezingTime.dll
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\bin\Debug\net8.0\FreezingTime.pdb
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\FreezingTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\FreezingTime.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\FreezingTime.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\FreezingTime.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\FreezingTime.dll
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\refint\FreezingTime.dll
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\FreezingTime.pdb
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\FreezingTime.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\FreezingTime\FreezingTime\obj\Debug\net8.0\ref\FreezingTime.dll
